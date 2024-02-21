@@ -18,7 +18,7 @@
     "@ethersproject/providers": "^5.3.1",
     "@ethersproject/units": "^5.3.0",
     "@superfluid-finance/js-sdk": "^0.4.3",
-    "axios": "^0.21.1",
+    "axios": "^0.28.0",
     "code-surfer": "^3.1.1",
     "express": "^4.17.1",
     "mdx-code": "^2.0.0",
