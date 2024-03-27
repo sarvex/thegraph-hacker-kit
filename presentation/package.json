@@ -20,7 +20,7 @@
     "@superfluid-finance/js-sdk": "^0.4.3",
     "axios": "^0.21.1",
     "code-surfer": "^3.1.1",
-    "express": "^4.17.1",
+    "express": "^4.19.2",
     "mdx-code": "^2.0.0",
     "mdx-deck": "3.0.10",
     "react-json-to-table": "^0.1.7",
